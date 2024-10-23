@@ -14,6 +14,7 @@ TechVerse is a social network API designed to allow users to share their thought
   - [Friend and Reaction Routes](#friend-and-reaction-routes)
 - [Walkthrough Video](#walkthrough-video)
 - [License](#license)
+- [Credits](#credits)
 - [Questions](#questions)
 
 ## Installation
@@ -94,6 +95,12 @@ Check out the [walkthrough video](https://drive.google.com/file/d/1dm_l-RGy141rR
 ## License
 
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+
+## Credits
+
+	•	The seeds folder and part of the code structure were adapted from the Week 18 Mini-Project provided in my coursework.
+	•	I used the miniproject and activites of Week 18 as a reference for building out the API structure.
+	•	ChatGPT was used to help debug the code and make improvements.
 
 ## Questions
 
